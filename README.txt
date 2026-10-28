@@ -1,1 +1,0 @@
-PS5 WebKit 14.20 v1.4.1 - original v1.4 TV layout with advanced diagnostics below the main dashboard. Upload index.html, ps5-logo.png, and ps5-console.png to the GitHub Pages repository root. Browser capability testing only; no exploit payloads.
